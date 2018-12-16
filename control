@@ -1,0 +1,8 @@
+Package: fibo
+Version: 1.0
+Architecture: all
+Maintainer: user
+Depends: bash
+Installed-Size: 2
+Homepage: http://foo.com
+Description: fibonacci series calculator
